@@ -1,1 +1,1 @@
-<?="What so serious?\n"?>
+<?= "Why so serious?\n" ?>
