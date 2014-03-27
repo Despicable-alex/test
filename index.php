@@ -1,1 +1,2 @@
-<?= "Why so serious?\n" ?>
+<?php
+   echo "Why so serious?\n";
